@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
 Testando repo 12
 a
 b
 c
 d
->>>>>>> teste_criacao2
+
