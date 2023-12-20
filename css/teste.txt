@@ -1,2 +1,5 @@
-d.txt
-node_modules/*
+Testando repo 12
+a
+b
+c
+d
